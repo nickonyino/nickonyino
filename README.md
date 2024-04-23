@@ -12,6 +12,7 @@
 - **Tools/Platforms**: Git, GitHub, Visual Studio Code, MySQL Workbench
 - **Others**: RESTful APIs, Shell scripting, Linux
 
+![alt text](images-1.png)   ![alt text](images.jpeg)  ![alt text](<images (2)-1.png>)  ![alt text](<images (1).png>)
 #### Fun Fact
 I believe that learning is a lifelong journey, and I'm always excited to dive into new technologies and concepts!
 
